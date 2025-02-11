@@ -16,6 +16,7 @@ pip install pygame
 
 2️⃣ Clone this repository:
 git clone https://github.com/sabby13/love2025.git
+
 cd love2025
 
 3️⃣ Run the game:
@@ -29,6 +30,7 @@ python game.py
 
 
 🎮Game Preview
+
 ![image](https://github.com/user-attachments/assets/62567151-4217-4335-bb14-7f469fe22819)
 
 
