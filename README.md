@@ -8,6 +8,21 @@ A fun **2D game** where you **catch falling hearts** in a basket! Built with **P
 ✅ Proposal at the end <3
 
 
+
+🖥️ Installation
+
+1️⃣ Install Python & Pygame:
+pip install pygame
+
+2️⃣ Clone this repository:
+git clone https://github.com/sabby13/love2025.git
+cd love2025
+
+3️⃣ Run the game:
+python game.py
+
+
+
 🎮 How to Play?
 1. Use **Left (⬅) and Right (➡) arrow keys** to move the basket.
 2. Catch hearts to **increase your score**.
